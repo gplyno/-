@@ -11,4 +11,5 @@ int main() {
 	std::cin >> name;
 
 	std::cout << "добро пожаловать на станцию «Полярис», " << name << std::endl;
+	return 0;
 }
